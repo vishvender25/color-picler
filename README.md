@@ -1,1 +1,1 @@
-# color-picler
+# colorpicker_react
